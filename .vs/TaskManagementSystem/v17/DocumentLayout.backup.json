@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\TaskManagementSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6B449F1F-019B-4DF3-87E8-D915C7BBD17D}|TaskManagementSystem\\TaskManagementSystem.csproj|e:\\taskmanagementsystem\\taskmanagementsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B449F1F-019B-4DF3-87E8-D915C7BBD17D}|TaskManagementSystem\\TaskManagementSystem.csproj|solutionrelative:taskmanagementsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B449F1F-019B-4DF3-87E8-D915C7BBD17D}|TaskManagementSystem\\TaskManagementSystem.csproj|e:\\taskmanagementsystem\\taskmanagementsystem\\controllers\\taskscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B449F1F-019B-4DF3-87E8-D915C7BBD17D}|TaskManagementSystem\\TaskManagementSystem.csproj|solutionrelative:taskmanagementsystem\\controllers\\taskscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B449F1F-019B-4DF3-87E8-D915C7BBD17D}|TaskManagementSystem\\TaskManagementSystem.csproj|e:\\taskmanagementsystem\\taskmanagementsystem\\models\\data\\taskdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B449F1F-019B-4DF3-87E8-D915C7BBD17D}|TaskManagementSystem\\TaskManagementSystem.csproj|solutionrelative:taskmanagementsystem\\models\\data\\taskdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B449F1F-019B-4DF3-87E8-D915C7BBD17D}|TaskManagementSystem\\TaskManagementSystem.csproj|e:\\taskmanagementsystem\\taskmanagementsystem\\models\\task.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B449F1F-019B-4DF3-87E8-D915C7BBD17D}|TaskManagementSystem\\TaskManagementSystem.csproj|solutionrelative:taskmanagementsystem\\models\\task.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\TaskManagementSystem\\TaskManagementSystem\\Program.cs",
+              "RelativeDocumentMoniker": "TaskManagementSystem\\Program.cs",
+              "ToolTip": "E:\\TaskManagementSystem\\TaskManagementSystem\\Program.cs",
+              "RelativeToolTip": "TaskManagementSystem\\Program.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAB0AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T18:27:02.587Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TasksController.cs",
+              "DocumentMoniker": "E:\\TaskManagementSystem\\TaskManagementSystem\\Controllers\\TasksController.cs",
+              "RelativeDocumentMoniker": "TaskManagementSystem\\Controllers\\TasksController.cs",
+              "ToolTip": "E:\\TaskManagementSystem\\TaskManagementSystem\\Controllers\\TasksController.cs",
+              "RelativeToolTip": "TaskManagementSystem\\Controllers\\TasksController.cs",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAAAF0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T18:31:08.513Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TaskDbContext.cs",
+              "DocumentMoniker": "E:\\TaskManagementSystem\\TaskManagementSystem\\Models\\Data\\TaskDbContext.cs",
+              "RelativeDocumentMoniker": "TaskManagementSystem\\Models\\Data\\TaskDbContext.cs",
+              "ToolTip": "E:\\TaskManagementSystem\\TaskManagementSystem\\Models\\Data\\TaskDbContext.cs",
+              "RelativeToolTip": "TaskManagementSystem\\Models\\Data\\TaskDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T18:30:25.646Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Task.cs",
+              "DocumentMoniker": "E:\\TaskManagementSystem\\TaskManagementSystem\\Models\\Task.cs",
+              "RelativeDocumentMoniker": "TaskManagementSystem\\Models\\Task.cs",
+              "ToolTip": "E:\\TaskManagementSystem\\TaskManagementSystem\\Models\\Task.cs",
+              "RelativeToolTip": "TaskManagementSystem\\Models\\Task.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T18:29:09.622Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
