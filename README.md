@@ -1,2 +1,17 @@
-# Task-Management-API
-A simple API built with C# and ASP.NET Core that allows users to create, view, update, and delete tasks. It includes easy-to-use Swagger documentation for testing the API. Great for learning basic CRUD operations in API development.
+# Task Management API
+
+A simple Task Management API built with C# using ASP.NET Core. This API allows you to create, retrieve, update, and delete tasks for a task management system.
+
+## Features
+
+- **GET**: Retrieve all tasks or a single task by ID
+- **POST**: Create a new task
+- **PUT**: Update an existing task
+- **DELETE**: Remove a task
+
+## How to Use
+
+1. Clone this repository to your local machine:
+
+   ```bash
+   git clone https://github.com/Ezaj24/Task-Management-API.git
